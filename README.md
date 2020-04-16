@@ -121,7 +121,7 @@ Volatility Index(VIX) Columns :
  
 'upordown'
 
-### Exploratory Visualisations
+### Exploratory Data Analysis
 
 1. News Headlines dataset
 	* Histogram plot of the news headlines to check for distribution of data from 2008 to 2016, this indicates an evenly balanced dataset across the timeframe. 
